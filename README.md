@@ -114,15 +114,11 @@ Data Science specialization capstone project
 
 [See full certification list →](https://www.linkedin.com/in/mariaangelesjs)
 
-## 📈 GitHub Stats
+## 📈 What I Work With
 
-<div align="center">
-  
-  ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaangelesjs&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaangelesjs&layout=compact&theme=radical&hide_border=true)
-  
-</div>
+**Primary Languages:** Python • JavaScript • C++ • Dart  
+**Focus Areas:** Machine Learning • MLOps • Web Accessibility • Data Science  
+**Recent Projects:** Adaptive AI systems • LLM-based solutions • Universal design tools
 
 ## 🎯 My Evolution as a Developer
 
@@ -163,8 +159,6 @@ Data Science specialization capstone project
   
   ### 💡 Fun Fact
   I went from studying neurons to building neural networks! 🧠➡️🤖
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=mariaangelesjs&color=blueviolet&style=for-the-badge)
   
 </div>
 
