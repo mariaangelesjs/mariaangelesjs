@@ -75,6 +75,7 @@ class Maria:
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
 
 ### Tools & Frameworks
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -130,6 +131,7 @@ Data Science specialization capstone project
 + git commit -m "feat: implement adaptive AI engine"
 + git commit -m "chore: update dependencies"
 + git commit -m "fix: resolve authentication bug"
++ Fastlane for iOS/Android deployment ✓
 + CI/CD pipeline ✓
 + Conventional commits ✓
 + Production-grade MLOps ✓
