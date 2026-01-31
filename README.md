@@ -157,8 +157,9 @@ Data Science specialization capstone project
 
 <div align="center">
   
-  ### 💡 Fun Fact
-  I went from studying neurons to building neural networks! 🧠➡️🤖
+  ### 💡 Fun Facts
+  🧠➡️🤖 I went from studying neurons to building neural networks!
+  👶💻 Started coding at age 6 - been building things for over two decades!
   
 </div>
 
