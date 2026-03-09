@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-CEO & CTO at [Plovm](https://plovm.com) | Building adaptive AI technology for web accessibility
+Former CTO at [Plovm](https://plovm.com) | Building adaptive AI technology for web accessibility
 
 I'm passionate about creating AI systems that adapt to individual needs and make technology more inclusive. My journey spans neuroscience research, bioinformatics, data science, and now building AI-powered solutions that matter.
 
