@@ -32,7 +32,7 @@ class Maria:
 
 ## 💼 Experience Journey
 
-**🎯 CEO/CTO @ Plovm** _(Aug 2024 - Present)_
+**🎯 CEO/CTO @ Plovm** _(Aug 2024 - Feb 2026)_
 - Developed agentic AI tool for web accessibility based on universal design
 - Built adaptive systems that identify behavioral patterns and adjust in real-time
 - Tech stack: Azure, Google Cloud Platform (Firebase), Python
